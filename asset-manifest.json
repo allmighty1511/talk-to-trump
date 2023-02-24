@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talk-to-trump/static/css/main.740582dc.css",
+    "main.js": "/talk-to-trump/static/js/main.ac984bf6.js",
+    "static/js/787.1bf0dbac.chunk.js": "/talk-to-trump/static/js/787.1bf0dbac.chunk.js",
+    "index.html": "/talk-to-trump/index.html",
+    "main.740582dc.css.map": "/talk-to-trump/static/css/main.740582dc.css.map",
+    "main.ac984bf6.js.map": "/talk-to-trump/static/js/main.ac984bf6.js.map",
+    "787.1bf0dbac.chunk.js.map": "/talk-to-trump/static/js/787.1bf0dbac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.740582dc.css",
+    "static/js/main.ac984bf6.js"
+  ]
+}
